@@ -1,0 +1,13 @@
+C:\Programming\Patterns\Singletop CSharp\bin\Debug\netcoreapp3.1\Singletop CSharp.exe
+C:\Programming\Patterns\Singletop CSharp\bin\Debug\netcoreapp3.1\Singletop CSharp.deps.json
+C:\Programming\Patterns\Singletop CSharp\bin\Debug\netcoreapp3.1\Singletop CSharp.runtimeconfig.json
+C:\Programming\Patterns\Singletop CSharp\bin\Debug\netcoreapp3.1\Singletop CSharp.runtimeconfig.dev.json
+C:\Programming\Patterns\Singletop CSharp\bin\Debug\netcoreapp3.1\Singletop CSharp.dll
+C:\Programming\Patterns\Singletop CSharp\bin\Debug\netcoreapp3.1\Singletop CSharp.pdb
+C:\Programming\Patterns\Singletop CSharp\obj\Debug\netcoreapp3.1\Singletop CSharp.csprojAssemblyReference.cache
+C:\Programming\Patterns\Singletop CSharp\obj\Debug\netcoreapp3.1\Singletop CSharp.AssemblyInfoInputs.cache
+C:\Programming\Patterns\Singletop CSharp\obj\Debug\netcoreapp3.1\Singletop CSharp.AssemblyInfo.cs
+C:\Programming\Patterns\Singletop CSharp\obj\Debug\netcoreapp3.1\Singletop CSharp.csproj.CoreCompileInputs.cache
+C:\Programming\Patterns\Singletop CSharp\obj\Debug\netcoreapp3.1\Singletop CSharp.dll
+C:\Programming\Patterns\Singletop CSharp\obj\Debug\netcoreapp3.1\Singletop CSharp.pdb
+C:\Programming\Patterns\Singletop CSharp\obj\Debug\netcoreapp3.1\Singletop CSharp.genruntimeconfig.cache
